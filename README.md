@@ -20,7 +20,8 @@ A comprehensive end-to-end analysis of a global retail dataset (2017–2021) to 
 * **Key Insight:** Identified "Adults (35-64)" as the most profitable demographic, contributing over $47M in revenue.
 * **Visualization:** Created a multi-chart dashboard to compare annual performance against demographic distribution.
 
-![Bike Sales Dashboard: Revenue and Profit Trends]([Link to your screenshot of the Line Chart and Pie Chart])
+![Bike Sales Pie Chart](/images/bike-sales-pie.png)
+![Bike Sales Year-over-Year](/images/bike-sales-yoy.png)
 *Caption: Professional dashboard visualizing five-year growth trends and demographic revenue share.*
 
 ---
