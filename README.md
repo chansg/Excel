@@ -42,28 +42,24 @@ A business like this needs commission summaries and sales totals to manage staff
 ### Screenshots
 
 **Screenshot 1 — Named Table (Columns A–H structured as an Excel Table)**
-> 📸 *Open `retail_sales_dataset_Master.xlsx` → Sheet: `retail_sales_dataset` → Select cells A1:H1001 → Press `Ctrl+T` to create the table → Rename the table in the Table Design tab. Capture the full table with the table name visible in the ribbon.*
 
 ![Retail Sales Table](./images/day2_task1_table.png)
 
 ---
 
 **Screenshot 2 — Age Filter (Sorted Largest to Smallest)**
-> 📸 *With the table active, click the dropdown arrow on the `Age` column header → Sort Largest to Smallest. Capture the top 20 rows showing the sorted ages clearly.*
 
 ![Age Filter Sorted](./images/day2_task1_filter_age.png)
 
 ---
 
 **Screenshot 3 — SUM Function in Cell P10**
-> 📸 *Navigate to cell `P10`. The formula bar should show `=SUM(...)` referencing the Commission column. Capture the cell, the formula bar, and the result together.*
 
 ![Commission SUM](./images/day2_task1_sum.png)
 
 ---
 
 **Screenshot 4 — AVERAGE Function in Cell P11**
-> 📸 *Navigate to cell `P11`. The formula bar should show `=AVERAGE(...)`. Capture cells P10 and P11 side by side so both the total and average are visible, along with the formula bar.*
 
 ![Commission AVERAGE](./images/day2_task1_average.png)
 
@@ -105,28 +101,24 @@ Educational institutions need to identify high and low performers quickly to inf
 ### Screenshots
 
 **Screenshot 1 — Filter Applied: Best Student per Subject**
-> 📸 *Open the student dataset → Apply a descending sort on the first subject column → Capture the top 5 rows showing the leading student clearly, with column headers visible.*
 
 ![Best Students Per Subject](./images/day2_task2_filter_subject.png)
 
 ---
 
 **Screenshot 2 — AVERAGE Formula in Column E**
-> 📸 *Click on cell E2 → Show the `=AVERAGE(...)` formula in the formula bar → Capture the formula bar and the first 10 rows of the Average column filled in.*
 
 ![Average Formula](./images/day2_task2_average.png)
 
 ---
 
 **Screenshot 3 — MAX Function in Column F**
-> 📸 *Click on cell F2 → Show the `=MAX(...)` formula in the formula bar → Capture the formula bar and the MAX column results for the first 10 rows.*
 
 ![MAX Function](./images/day2_task2_max.png)
 
 ---
 
 **Screenshot 4 — Conditional Formatting: Highest and Lowest Averages**
-> 📸 *Select the Average column (Column E) → Apply a colour scale via Home → Conditional Formatting → Colour Scales. Capture the full column showing green (high) to red (low) gradient clearly.*
 
 ![Conditional Formatting](./images/day2_task2_conditional_format.png)
 
@@ -163,23 +155,14 @@ A dashboard gives a teacher or head of year an at-a-glance view of class perform
 ### Screenshots
 
 **Screenshot 1 — Student Marks Dashboard Overview**
-> 📸 *Navigate to the dashboard sheet (or summary area) → Capture the full dashboard layout showing the key metrics: class average, highest mark, top student name and ID, all visible without scrolling.*
 
 ![Dashboard Overview](./images/day2_task3_dashboard.png)
 
 ---
 
 **Screenshot 2 — All Functions Visible in Formula Bar**
-> 📸 *Click on each key dashboard cell (Average, MAX, cell reference for Top Student Name) one at a time and take a screenshot showing the formula bar for each. Or combine into a single annotated screenshot if possible.*
 
 ![Dashboard Functions](./images/day2_task3_dashboard_functions.png)
-
----
-
-**Screenshot 3 — Top Student Ranked at the Top**
-> 📸 *Sort the data by Average descending → Capture the first 5 rows showing the top student at the top, with the Top Student ID and Name cells on the dashboard dynamically reflecting the change.*
-
-![Top Student Ranked](./images/day2_task3_top_student.png)
 
 ---
 
@@ -228,21 +211,18 @@ A business selling products across multiple countries needs to know which market
 ### Screenshots
 
 **Screenshot 1 — Initial PivotTable Created**
-> 📸 *Open `Day_3_Task_1_Bike_Sales_Pivot_Lab_to_use.xlsx` → Sheet: `Sheet1` → Capture the full PivotTable showing Country in rows, Age Group in columns, and Profit as values. Ensure row and column totals are visible.*
 
 ![Pivot Table Created](./images/day3_task1_pivot_created.png)
 
 ---
 
 **Screenshot 2 — PivotTable Refined (Profit View)**
-> 📸 *In the same sheet, change the value field to `Profit` if not already set → Capture the refined table showing profit figures by country and age group. The Grand Total column and row should be visible.*
 
 ![Pivot Table Profit](./images/day3_task1_pivot_profit.png)
 
 ---
 
 **Screenshot 3 — PivotChart**
-> 📸 *Click anywhere in the PivotTable → Insert → PivotChart → Choose a bar or column chart → Capture the chart alongside the PivotTable it was generated from.*
 
 ![Pivot Chart](./images/day3_task1_pivot_chart.png)
 
@@ -289,21 +269,18 @@ A company distributing products across UK regions needs to know which areas are 
 ### Screenshots
 
 **Screenshot 1 — SWITCH Function Applied (Product Category Column)**
-> 📸 *Open `Day_3_task_2_Switch__PivotTable-_Task_2_to_use.xlsx` → Sheet: `SWITCH` → Click on cell D2 to show the SWITCH formula in the formula bar → Capture the full dataset with the Product Category column populated, showing "High", "Medium", and "Low" values. Formula bar must be visible.*
 
 ![SWITCH Function](./images/day3_task2_switch.png)
 
 ---
 
 **Screenshot 2 — PivotTable: Sales by County and Product**
-> 📸 *Navigate to Sheet: `Sheet1` → Capture the full PivotTable showing County in rows, Products (Laptops, Printers, Smartphones) in columns, and Sales Volume as values. Grand Total row and column should be visible.*
 
 ![Pivot Table Sales](./images/day3_task2_pivot.png)
 
 ---
 
 **Screenshot 3 — Filtered View: High Sales Volume Only**
-> 📸 *Return to Sheet: `SWITCH` → Apply a filter on the Product Category column to show only "High" rows → Capture the filtered result showing only Cornwall (Laptops, 700), Essex (Printers, 800), and Lancashire (Laptops, 600).*
 
 ![High Sales Filter](./images/day3_task2_high_filter.png)
 
@@ -363,21 +340,18 @@ Visualisations are the primary way a data analyst communicates findings to non-t
 ### Screenshots
 
 **Screenshot 1 — Line Chart: Revenue vs. Profits (2017–2021)**
-> 📸 *Open `Day_3_Task_3_Bike_Sales_Visualisations_Lab_Task_3.xlsx` → Sheet: `Revenue and Profit by Year` → Capture the completed line chart with both the "Annual Profit" and "Annual Revenue" lines visible, x-axis showing years 2017–2021, y-axis showing USD currency values, legend on the right, and both axis titles visible. The chart title "Revenue vs. Profits" should be clearly readable at the top.*
 
 ![Line Chart Revenue vs Profits](./images/day3_task3_line_chart.png)
 
 ---
 
 **Screenshot 2 — Column Chart: Product Revenue by Country**
-> 📸 *Navigate to Sheet: `Product Revenue by Country` → Capture the completed stacked column chart showing all six countries on the x-axis (Australia, Canada, France, Germany, United Kingdom, United States), stacked bars representing Clothing, Bikes, and Accessories, and the legend positioned to the right. Both axis titles should be visible.*
 
 ![Column Chart Product Revenue](./images/day3_task3_column_chart.png)
 
 ---
 
 **Screenshot 3 — Pie Chart: Revenue Comparison by Age Group**
-> 📸 *Navigate to Sheet: `Revenue by Age Group` → Capture the completed pie chart showing all four age segments (Adults 35–64, Young Adults 25–34, Youth <25, Seniors 64+) with percentage labels displayed directly on each slice alongside the category name. Legend should be on the right.*
 
 ![Pie Chart Age Group Revenue](./images/day3_task3_pie_chart.png)
 
